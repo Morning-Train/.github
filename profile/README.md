@@ -39,6 +39,6 @@ Developed by <br>
 </div>
 <div align="center">
 <a href="https://morningtrain.dk" target="_blank">
-<img src="https://morningtrain.dk/wp-content/themes/mtt-wordpress-theme/assets/img/logo-only-text.svg" width="200" alt="Morningtrain logo">
+<img src="https://morningtrain.dk/wp-content/uploads/2025/09/MT-logo-2025.svg" width="200" alt="Morningtrain logo">
 </a>
 </div>
