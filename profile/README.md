@@ -1,6 +1,5 @@
-![Morningtrain Logo](https://morningtrain.dk/wp-content/themes/mtt-wordpress-theme/assets/img/logo-only-text.svg)
+![Morningtrain Logo](https://morningtrain.dk/wp-content/uploads/2025/09/MT-logo-2025.svg)
 
-# Morningtrain
 Welcome to the official GitHub for Morningtrain! 🚂
 
 ## About Morningtrain
